@@ -1,6 +1,20 @@
-# Live Project Link
+# YT_CLONE
+A fully responsive React JS application consisting of stunning video sections, custom categories, channel pages, and, most importantly, you can play videos straight from your YouTube Clone App!
+
+### Live Project Link
    
    YT Clone: https://yt-super.netlify.app/
+   
+### Project Previews
+
+![image](https://user-images.githubusercontent.com/76047915/209432886-718e6162-7705-498b-8a2e-aeaeb99955fe.png)
+
+![image](https://user-images.githubusercontent.com/76047915/209432910-34285e0b-d55a-4e65-9e5d-e5ed4435287c.png)
+
+![image](https://user-images.githubusercontent.com/76047915/209432949-1925d563-70a8-40c4-b4d2-4b81ed4ceaca.png)
+
+![image](https://user-images.githubusercontent.com/76047915/209432977-2d28ba42-a4df-48f3-ad7b-edbfb1d3d3b3.png)
+
 
 # Getting Started with Create React App
 
